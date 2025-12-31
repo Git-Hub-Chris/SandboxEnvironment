@@ -1,5 +1,5 @@
 # Sandbox Environment
-Software Development and Testing Environment
+Software Development and Testing Environment.
 
 Testing Sites:
 
