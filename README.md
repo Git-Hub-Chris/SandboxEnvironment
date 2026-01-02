@@ -9,7 +9,7 @@ ORCID Sandbox
 https://sandbox.orcid.org/0009-0002-9214-7327
 
 
-Local Contexts Hub Sandbox + API (application programming interface)
+Local Contexts Hub Sandbox + API (Application Programming Interface)
 
 https://sandbox.localcontextshub.org/dashboard/
 
