@@ -3,19 +3,19 @@ Software Development and Testing Environment.
 
 
 
-ORCID Sandbox
+ORCID Sandbox:
 
 https://sandbox.orcid.org/0009-0002-9214-7327
 
 
-Local Contexts Hub Sandbox + API (Application Programming Interface)
+Local Contexts Hub Sandbox + API (Application Programming Interface):
 
 https://sandbox.localcontextshub.org/dashboard/
 
 https://sandbox.localcontextshub.org/api
 
 
-Windows Sandbox
+Windows Sandbox:
 
 https://learn.microsoft.com/en-us/windows/security/application-security/application-isolation/windows-sandbox/
 
