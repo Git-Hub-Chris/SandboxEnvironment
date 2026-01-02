@@ -1,7 +1,6 @@
 # Sandbox Environment
 Software Development and Testing Environment.
 
-Testing Sites:
 
 
 ORCID Sandbox
