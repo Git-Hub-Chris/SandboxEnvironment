@@ -1,0 +1,11 @@
+modelParameters:
+  max_completion_tokens: 13107
+  temperature: 1
+  top_p: 1
+  stop: []
+  frequency_penalty: 0
+  presence_penalty: 0
+model: microsoft/phi-4
+messages:
+  - role: system
+    content: You are a sandbox environment for software development and testing.
