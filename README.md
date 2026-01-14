@@ -2,7 +2,7 @@
 
 
 
-A secure sandbox environment designed for experimentation, testing, and development. This repository serves as a playground for exploring new technologies.
+A versatile and secure sandbox environment designed for experimentation, testing, and development. This repository serves as a playground for exploring new technologies.
 
 
 
