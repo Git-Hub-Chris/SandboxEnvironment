@@ -2,7 +2,7 @@
 
 
 
-Purpose
+# Purpose
 
 This Security Policy sets guidelines and expectations for identifying, reporting, and managing security vulnerabilities in this sandbox environment repository. Please note that this repository is intended for testing, experimentation, and learning purposes, and may contain code or configurations that are not production-grade.
 
