@@ -2,6 +2,10 @@
 
 
 
+A secure sandbox environment designed for experimentation, testing, and development. This repository serves as a playground for exploring new technologies.
+
+
+
 ORCID Sandbox:
 
 https://sandbox.orcid.org/0009-0002-9214-7327
