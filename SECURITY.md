@@ -29,9 +29,7 @@ If you identify a security vulnerability in this repository:
 
 1. Do Not Create Public Issues: To avoid exposing the vulnerability, please avoid reporting it via GitHub Issues or in any public forums.
 
-2. Contact the Security Team: Report vulnerabilities via email to [security-email@example.com]. Use the subject line “Sandbox Repo Security Vulnerability Report”.
-
-3. Provide Detailed Information: Include as much information as possible in your report, such as:
+2. Provide Detailed Information: Include as much information as possible in your report, such as:
 
 • Description of the vulnerability
 
