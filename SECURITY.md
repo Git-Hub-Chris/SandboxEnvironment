@@ -51,7 +51,7 @@ Once a vulnerability is reported:
 3. Once remediated, the solution will be documented, and any necessary updates or patches will be applied.
 
 
-Best Practices in the Sandbox
+# Best Practices in the Sandbox
 
 To reduce security risks:
 
@@ -62,12 +62,12 @@ To reduce security risks:
 • Periodically review and remove unnecessary dependencies or outdated code snippets.
 
 
-Disclaimer
+# Disclaimer
 
 As a sandbox environment repository, this project is not suitable for production use without additional hardening, security audits, and testing. Users assume responsibility for any risks associated with contributing to or using the repository contents.
 
 
-Policy Updates
+# Policy Updates
 
 The maintainers may revise this Security Policy periodically to address the evolving threat landscape and improve security-related processes. Updates will be documented in this repository.
 
