@@ -7,7 +7,7 @@
 This Security Policy sets guidelines and expectations for identifying, reporting, and managing security vulnerabilities in this sandbox environment repository. Please note that this repository is intended for testing, experimentation, and learning purposes, and may contain code or configurations that are not production-grade.
 
 
-Scope
+# Scope
 
 This policy applies to all users, contributors, and maintainers of this repository. Security concerns related to this repository, such as vulnerabilities in the codebase, should be managed and reported as described below.
 
@@ -23,7 +23,7 @@ A sandbox environment is designed for experimentation and non-critical testing. 
 • Default Permissions: Default repository permissions may be relaxed to encourage contributions. Please avoid sharing sensitive information.
 
 
-Reporting a Vulnerability
+# Reporting a Vulnerability
 
 If you identify a security vulnerability in this repository:
 
