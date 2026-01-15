@@ -16,7 +16,7 @@ https://sandbox.localcontextshub.org/api
 
 https://learn.microsoft.com/en-us/windows/security/application-security/application-isolation/windows-sandbox/
 
-### Linux Sanbox:
+### Linux Sandbox:
 
 https://labex.io/tutorials/linux-online-linux-terminal-and-playground-372915
 
