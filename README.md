@@ -25,5 +25,3 @@ https://labex.io/tutorials/linux-online-linux-terminal-and-playground-372915
 ### MacOS Sandbox:
 
 https://developer.apple.com/documentation/xcode/configuring-the-macos-app-sandbox
-
-<img width="250" height="250" alt="Open_To_Collaborate" src="https://github.com/user-attachments/assets/940c11b1-bf4e-449c-9e2a-51ef4528e0ad" />
