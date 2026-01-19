@@ -1,5 +1,7 @@
 # Sandbox Environment
 
+[![CI](https://github.com/Git-Hub-Chris/SandboxEnvironment/actions/workflows/blank.yml/badge.svg)](https://github.com/Git-Hub-Chris/SandboxEnvironment/actions/workflows/blank.yml)
+
 A versatile and secure sandbox environment designed for experimentation, testing, and development. This repository serves as a playground for exploring new technologies.
 
 <img width="250" height="250" alt="Open_To_Collaborate" src="https://github.com/user-attachments/assets/940c11b1-bf4e-449c-9e2a-51ef4528e0ad" />
