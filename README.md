@@ -19,6 +19,10 @@ https://sandbox.localcontextshub.org/api
 
 https://platform.claude.com/docs/en/api/overview
 
+### Visual Studio Code Application Programming Interface:
+
+https://code.visualstudio.com/api/references/vscode-api
+
 ### ORCID Sandbox:
 
 https://sandbox.orcid.org/0009-0002-9214-7327
