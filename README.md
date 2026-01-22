@@ -5,7 +5,7 @@
 [![Dependabot Updates](https://github.com/Git-Hub-Chris/SandboxEnvironment/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/Git-Hub-Chris/SandboxEnvironment/actions/workflows/dependabot/dependabot-updates)
 [![Scorecard supply-chain security](https://github.com/Git-Hub-Chris/SandboxEnvironment/actions/workflows/scorecards.yml/badge.svg?branch=Main)](https://github.com/Git-Hub-Chris/SandboxEnvironment/actions/workflows/scorecards.yml)
 
-# Introduction
+## Introduction
 
 A versatile and secure sandbox environment designed for experimentation, testing, and development. This multi-purpose repository serves as a playground for exploring new technologies.
 
