@@ -5,6 +5,7 @@
 [![Dependabot Updates](https://github.com/Git-Hub-Chris/SandboxEnvironment/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/Git-Hub-Chris/SandboxEnvironment/actions/workflows/dependabot/dependabot-updates)
 [![Scorecard supply-chain security](https://github.com/Git-Hub-Chris/SandboxEnvironment/actions/workflows/scorecards.yml/badge.svg?branch=Main)](https://github.com/Git-Hub-Chris/SandboxEnvironment/actions/workflows/scorecards.yml)
 ![Static Badge](https://img.shields.io/badge/GitHub-Sandbox%20Environment-yellow?style=flat&logo=Github&logoColor=yellow&labelColor=gray)
+![Static Badge](https://img.shields.io/badge/GitHub-MIT%20License-blue?style=flat&logo=Github&logoColor=blue&labelColor=gray)
 
 ## Introduction
 
