@@ -43,6 +43,8 @@ https://labex.io/tutorials/linux-online-linux-terminal-and-playground-372915
 
 https://developer.apple.com/documentation/xcode/configuring-the-macos-app-sandbox
 
+Traditional_Knowledge_Notice.png
+
 ## Acknowledgements
 
 A special thank you to these organizations for providing the digital resources necessary to help create this repository. Enjoy the sandbox.
