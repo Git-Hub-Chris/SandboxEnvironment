@@ -13,17 +13,17 @@ A versatile and secure sandbox environment designed for experimentation, testing
 
 <img width="250" height="250" alt="Open_To_Collaborate" src="https://github.com/user-attachments/assets/940c11b1-bf4e-449c-9e2a-51ef4528e0ad" />
 
-### Local Contexts Hub Sandbox + API (Application Programming Interface)
+### Local Contexts Hub Sandbox + API
 
 <https://sandbox.localcontextshub.org/dashboard/>
 
 <https://sandbox.localcontextshub.org/api>
 
-### Claude API (Application Programming Interface)
+### Claude API
 
 <https://platform.claude.com/docs/en/api/overview>
 
-### Visual Studio Code API (Application Programming Interface)
+### Visual Studio Code API
 
 <https://code.visualstudio.com/api/references/vscode-api>
 
