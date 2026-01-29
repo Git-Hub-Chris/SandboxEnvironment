@@ -1,0 +1,4 @@
+messages:
+  - role: user
+    content: Software testing environment.
+model: microsoft/mai-ds-r1
