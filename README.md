@@ -13,12 +13,6 @@ A versatile and secure sandbox environment designed for experimentation, testing
 
 ## Testing
 
-### Local Contexts Hub Sandbox + API
-
-<https://sandbox.localcontextshub.org/dashboard/>
-
-<https://sandbox.localcontextshub.org/api>
-
 ### Claude API
 
 <https://platform.claude.com/docs/en/api/overview>
@@ -26,6 +20,12 @@ A versatile and secure sandbox environment designed for experimentation, testing
 ### Visual Studio Code API
 
 <https://code.visualstudio.com/api/references/vscode-api>
+
+### Local Contexts Hub API + Sandbox
+
+<https://sandbox.localcontextshub.org/dashboard/>
+
+<https://sandbox.localcontextshub.org/api>
 
 ### ORCID Sandbox
 
