@@ -11,6 +11,8 @@
 
 A versatile and secure sandbox environment designed for experimentation, testing, and development. This multi-purpose repository serves as a playground for exploring new technologies.
 
+https://www.bestpractices.dev/projects/11860/badge)](https://www.bestpractices.dev/projects/11860
+
 ## Testing
 
 ### Claude API
