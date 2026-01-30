@@ -24,9 +24,9 @@ A versatile and secure sandbox environment designed for experimentation, testing
 
 ### Local Contexts Hub API + Sandbox
 
-<https://sandbox.localcontextshub.org/dashboard/>
-
 <https://sandbox.localcontextshub.org/api>
+
+<https://sandbox.localcontextshub.org/dashboard/>
 
 ### ORCID Sandbox
 
