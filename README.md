@@ -22,15 +22,13 @@ A versatile and secure sandbox environment designed for experimentation, testing
 
 <https://code.visualstudio.com/api/references/vscode-api>
 
-### Local Contexts Hub API + Sandbox
-
-<https://sandbox.localcontextshub.org/api>
-
-<https://sandbox.localcontextshub.org/dashboard/>
-
 ### ORCID Sandbox
 
 <https://sandbox.orcid.org/0009-0002-9214-7327>
+
+### Local Contexts Hub Sandbox
+
+<https://sandbox.localcontextshub.org/dashboard/>
 
 ### Windows Sandbox
 
