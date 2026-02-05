@@ -4,6 +4,7 @@
 [![Dependency Review](https://github.com/Git-Hub-Chris/SandboxEnvironment/actions/workflows/dependency-review.yml/badge.svg)](https://github.com/Git-Hub-Chris/SandboxEnvironment/actions/workflows/dependency-review.yml)
 [![Dependabot Updates](https://github.com/Git-Hub-Chris/SandboxEnvironment/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/Git-Hub-Chris/SandboxEnvironment/actions/workflows/dependabot/dependabot-updates)
 [![Scorecard supply-chain security](https://github.com/Git-Hub-Chris/SandboxEnvironment/actions/workflows/scorecards.yml/badge.svg?branch=Main)](https://github.com/Git-Hub-Chris/SandboxEnvironment/actions/workflows/scorecards.yml)
+[![CodeQL Advanced](https://github.com/Git-Hub-Chris/SandboxEnvironment/actions/workflows/codeql.yml/badge.svg?branch=Main)](https://github.com/Git-Hub-Chris/SandboxEnvironment/actions/workflows/codeql.yml)
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/11860/badge)](https://www.bestpractices.dev/projects/11860)
 ![Static Badge](https://img.shields.io/badge/GitHub-Sandbox%20Environment-yellow?style=flat&logo=Github&logoColor=yellow&labelColor=gray)
 ![Static Badge](https://img.shields.io/badge/GitHub-MIT%20License-blue?style=flat&logo=Github&logoColor=blue&labelColor=gray)
