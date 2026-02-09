@@ -31,7 +31,40 @@ jobs:
         with:
           egress-policy: audit
 
-      - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
+      - name: Checkout repository
+        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
+        with:
+          fetch-depth: 1
+        env:
+          ACTIONS_STEP_DEBUG: true
+        continue-on-error: true
+        id: checkout_attempt_1
+
+      - name: Wait before retry
+        if: steps.checkout_attempt_1.outcome == 'failure'
+        run: sleep 20
+
+      - name: Retry checkout if needed
+        if: steps.checkout_attempt_1.outcome == 'failure'
+        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
+        with:
+          fetch-depth: 1
+        env:
+          ACTIONS_STEP_DEBUG: true
+        continue-on-error: true
+        id: checkout_attempt_2
+
+      - name: Wait before final retry
+        if: steps.checkout_attempt_2.outcome == 'failure'
+        run: sleep 20
+
+      - name: Final retry checkout if needed
+        if: steps.checkout_attempt_2.outcome == 'failure'
+        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
+        with:
+          fetch-depth: 1
+        env:
+          ACTIONS_STEP_DEBUG: true
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
