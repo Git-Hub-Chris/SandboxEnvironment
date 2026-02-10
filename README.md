@@ -8,7 +8,6 @@
 [![Copilot code review](https://github.com/Git-Hub-Chris/SandboxEnvironment/actions/workflows/copilot-pull-request-reviewer/copilot-pull-request-reviewer/badge.svg)](https://github.com/Git-Hub-Chris/SandboxEnvironment/actions/workflows/copilot-pull-request-reviewer/copilot-pull-request-reviewer)
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/11860/badge)](https://www.bestpractices.dev/projects/11860)
 ![Static Badge](https://img.shields.io/badge/GitHub-Sandbox%20Environment-yellow?style=flat&logo=Github&logoColor=yellow&labelColor=gray)
-![Static Badge](https://img.shields.io/badge/GitHub-MIT%20License-blue?style=flat&logo=Github&logoColor=blue&labelColor=gray)
 
 ## Introduction
 
