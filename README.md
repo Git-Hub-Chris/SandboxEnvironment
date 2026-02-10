@@ -35,10 +35,6 @@ A versatile and secure sandbox environment designed for experimentation, testing
 
 <https://sandbox.localcontextshub.org/dashboard/>
 
-### Windows Sandbox
-
-<https://learn.microsoft.com/en-us/windows/security/application-security/application-isolation/windows-sandbox/>
-
 ### Linux Sandbox
 
 <https://labex.io/tutorials/linux-online-linux-terminal-and-playground-372915>
@@ -46,6 +42,10 @@ A versatile and secure sandbox environment designed for experimentation, testing
 ### MacOS Sandbox
 
 <https://developer.apple.com/documentation/xcode/configuring-the-macos-app-sandbox>
+
+### Windows Sandbox
+
+<https://learn.microsoft.com/en-us/windows/security/application-security/application-isolation/windows-sandbox/>
 
 ## Acknowledgements
 
