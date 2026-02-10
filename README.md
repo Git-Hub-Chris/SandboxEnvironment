@@ -19,6 +19,10 @@ A versatile and secure sandbox environment designed for experimentation, testing
 
 <https://platform.claude.com/docs/en/api/overview>
 
+### LM Studio API
+
+<https://lmstudio.ai/docs/developer/rest>
+
 ### Visual Studio Code API
 
 <https://code.visualstudio.com/api/references/vscode-api>
