@@ -134,7 +134,7 @@ Hooks check for:
 
 Follow the conventional commit format:
 
-```
+```text
 <type>(<scope>): <subject>
 
 <body>
@@ -146,7 +146,7 @@ Follow the conventional commit format:
 
 **Example**:
 
-```
+```text
 feat(sandbox): add new testing capability
 
 This adds a new feature that enables developers to...
