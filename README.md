@@ -14,6 +14,18 @@
 
 A versatile and secure sandbox environment designed for experimentation, testing, and development. This multi-purpose repository serves as a playground for exploring new technologies.
 
+The SandboxEnvironment provides a structured space for safely testing APIs, tools, and workflows without impacting production systems. It integrates modern DevOps practices — including automated CI/CD pipelines, dependency management, and supply-chain security scanning — to demonstrate best practices in repository maintenance.
+
+Key areas covered in this sandbox include:
+
+- **AI-assisted development** — integration with large language model APIs such as Claude and LM Studio for development and testing workflows.
+- **Security tooling** — CodeQL static analysis, OpenSSF Scorecard, Dependabot automated dependency updates, and secret scanning via pre-commit hooks.
+- **Cross-platform sandboxing** — references and resources for Linux, macOS, and Windows sandbox environments.
+- **Indigenous data ethics** — adoption of the Open to Collaborate Notice and Traditional Knowledge Notice from Local Contexts, supporting Indigenous data sovereignty.
+- **Open research** — archiving and DOI minting via Zenodo to make outputs citable and accessible.
+
+Whether you are a developer evaluating new tools, a researcher exploring reproducible workflows, or an open-source contributor looking for a well-configured starting point, this repository offers a ready-made environment to experiment freely and collaboratively.
+
 ## Software testing
 
 ### Claude API
