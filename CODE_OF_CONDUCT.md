@@ -51,21 +51,25 @@ If you experience or witness unacceptable behavior:
 Community leaders will follow these Community Impact Guidelines in determining consequences:
 
 ### 1. Correction
+
 **Impact**: Use of inappropriate language or behavior deemed unprofessional
 
 **Consequence**: A private, written warning with clarity on the violation and explanation of why the behavior was inappropriate.
 
 ### 2. Warning
+
 **Impact**: A violation through a single incident or series of actions
 
 **Consequence**: A warning with consequences for continued behavior. No interaction with involved parties, including unsolicited interaction, for a specified period.
 
 ### 3. Temporary Ban
+
 **Impact**: A serious violation of community standards
 
 **Consequence**: A temporary ban from any sort of interaction or public communication within the community for a specified period.
 
 ### 4. Permanent Ban
+
 **Impact**: Demonstrating a pattern of violation of community standards
 
 **Consequence**: A permanent ban from any sort of public interaction within the community.
@@ -76,13 +80,14 @@ If you believe a decision was made in error, you may appeal by contacting the ma
 
 ## Attribution
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 2.0, available at https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
+This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 2.0, available at <https://www.contributor-covenant.org/version/2/0/code_of_conduct.html>.
 
 Community Impact Guidelines were inspired by [Mozilla's code of conduct enforcement ladder](https://github.com/mozilla/diversity).
 
-For answers to common questions about this code of conduct, see the FAQ at https://www.contributor-covenant.org/faq. Translations are available at https://www.contributor-covenant.org/translations.
+For answers to common questions about this code of conduct, see the FAQ at <https://www.contributor-covenant.org/faq>. Translations are available at <https://www.contributor-covenant.org/translations>.
 
 ---
 
 **Last Updated**: February 2026
 
+[homepage]: https://www.contributor-covenant.org

@@ -18,16 +18,20 @@ Please review our [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) before participating.
 
 1. **Fork the repository** on GitHub
 2. **Clone your fork locally**:
+
    ```bash
    git clone https://github.com/your-username/SandboxEnvironment.git
    cd SandboxEnvironment
    ```
 
 3. **Create a branch** for your work:
+
    ```bash
    git checkout -b feature/your-feature-name
    ```
+
    or
+
    ```bash
    git checkout -b fix/your-bug-fix
    ```
@@ -47,7 +51,8 @@ Please review our [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) before participating.
 
 1. **Keep changes focused**: Each PR should address one feature or fix
 2. **Write clear commit messages**:
-   ```
+
+   ```text
    Short description (50 characters or less)
    
    More detailed explanation if necessary, wrapped at 72 characters.
@@ -120,6 +125,7 @@ pre-commit install
 ```
 
 Hooks check for:
+
 - Secret leaks (gitleaks)
 - Trailing whitespace
 - End-of-file fixes
@@ -139,6 +145,7 @@ Follow the conventional commit format:
 **Types**: feat, fix, docs, style, refactor, perf, test, chore
 
 **Example**:
+
 ```
 feat(sandbox): add new testing capability
 
@@ -164,4 +171,3 @@ Contributors are valued members of our community! Thank you for helping improve 
 ---
 
 **Last Updated**: February 2026
-
