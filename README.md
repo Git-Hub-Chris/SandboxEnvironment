@@ -52,4 +52,4 @@ A versatile and secure sandbox environment designed for experimentation, testing
 
 A special thank you to these organizations for providing the digital resources necessary to help create this repository. Enjoy the sandbox.
 
-<img width="250" height="250" alt="Open_To_Collaborate" src="https://github.com/user-attachments/assets/940c11b1-bf4e-449c-9e2a-51ef4528e0ad" />
+![Open_To_Collaborate](https://github.com/user-attachments/assets/940c11b1-bf4e-449c-9e2a-51ef4528e0ad)
