@@ -60,5 +60,3 @@ A special thank you to these organizations for providing the digital resources n
 - **[LM Studio](https://lmstudio.ai)** — local large language model inference API for development and testing.
 
 ![Open_To_Collaborate](https://github.com/user-attachments/assets/940c11b1-bf4e-449c-9e2a-51ef4528e0ad)
-
-![Traditional_Knowledge_Notice](Traditional_Knowledge_Notice.png)
