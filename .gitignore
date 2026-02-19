@@ -1,0 +1,138 @@
+# Dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Java
+*.class
+*.jar
+*.war
+*.rar
+target/
+
+# C/C++
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+CMakeFiles/
+cmake_install.cmake
+CMakeCache.txt
+
+# IDE and Editor
+.vscode/
+!.vscode/settings.json
+!.vscode/launch.json
+!.vscode/tasks.json
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+*.sublime-project
+*.sublime-workspace
+
+# Build artifacts
+bin/
+obj/
+out/
+.gradle/
+.mvn/wrapper/mvn-wrapper.jar
+.mvn/wrapper/maven-wrapper.jar
+
+# Sensitive data
+.env
+.env.local
+.env.*.local
+secrets/
+*.key
+*.pem
+*.p12
+*.pfx
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.bak
+*.swp
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Node.js
+node_modules/
+npm-debug.log
+
+# Ruby
+Gemfile.lock
+.bundle/
+
+# Go
+/bin/
+/vendor/
+
+# Rust
+target/
+Cargo.lock
+
+# .NET
+bin/
+obj/
+packages/
+.vs/
+
+# Docker
+docker-compose.override.yml
+
+# VS Code workspace settings (personal)
+.vscode/launch.json.bak
+*.code-workspace
+
+# Miscellaneous
+*.orig
