@@ -52,4 +52,13 @@ A versatile and secure sandbox environment designed for experimentation, testing
 
 A special thank you to these organizations for providing the digital resources necessary to help create this repository. Enjoy the sandbox.
 
+- **[GitHub](https://github.com)** — repository hosting, GitHub Actions CI/CD, Dependabot, CodeQL security scanning, and GitHub Copilot.
+- **[Local Contexts](https://localcontexts.org)** — Open to Collaborate Notice and Traditional Knowledge Notice, supporting Indigenous data sovereignty and ethical collaboration.
+- **[Zenodo](https://zenodo.org)** — open-access archiving and DOI minting for research outputs.
+- **[OpenSSF](https://openssf.org)** — Open Source Security Foundation Best Practices badge and Scorecard supply-chain security tooling.
+- **[Anthropic](https://www.anthropic.com)** — Claude API for AI-assisted development and testing.
+- **[LM Studio](https://lmstudio.ai)** — local large language model inference API for development and testing.
+
 ![Open_To_Collaborate](https://github.com/user-attachments/assets/940c11b1-bf4e-449c-9e2a-51ef4528e0ad)
+
+![Traditional_Knowledge_Notice](Traditional_Knowledge_Notice.png)
