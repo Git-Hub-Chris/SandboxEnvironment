@@ -14,7 +14,7 @@
 
 A versatile and secure sandbox environment designed for experimentation, testing, and development. This multi-purpose repository serves as a playground for exploring new technologies.
 
-The SandboxEnvironment provides a structured space for safely testing APIs, tools, and workflows without impacting production systems. It integrates modern DevOps practices — including automated CI/CD pipelines, dependency management, and supply-chain security scanning — to demonstrate best practices in repository maintenance.
+The 'SandboxEnvironment' provides a structured space for safely testing APIs, tools, and workflows without impacting production systems. It integrates modern DevOps practices — including automated CI/CD pipelines, dependency management, and supply-chain security scanning — to demonstrate best practices in repository maintenance.
 
 Key areas covered in this sandbox include:
 
