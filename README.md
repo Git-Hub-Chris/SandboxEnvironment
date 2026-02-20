@@ -21,7 +21,6 @@ Key areas covered in this sandbox include:
 - **AI-assisted development** — integration with large language model APIs such as Claude and LM Studio for development and testing workflows.
 - **Security tooling** — CodeQL static analysis, OpenSSF Scorecard, Dependabot automated dependency updates, and secret scanning via pre-commit hooks.
 - **Cross-platform sandboxing** — references and resources for Linux, macOS, and Windows sandbox environments.
-- **Indigenous data ethics** — adoption of the Open to Collaborate Notice and Traditional Knowledge Notice from Local Contexts, supporting Indigenous data sovereignty.
 - **Open research** — archiving and DOI minting via Zenodo to make outputs citable and accessible.
 
 ## Software testing
@@ -63,10 +62,10 @@ Key areas covered in this sandbox include:
 A special thank you to these organizations for providing the digital resources necessary to help create this repository. Enjoy the sandbox.
 
 - **[GitHub](https://github.com)** — repository hosting, GitHub Actions CI/CD, Dependabot, CodeQL security scanning, and GitHub Copilot.
-- **[Local Contexts](https://localcontexts.org)** — Open to Collaborate Notice and Traditional Knowledge Notice, supporting Indigenous data sovereignty and ethical collaboration.
 - **[Zenodo](https://zenodo.org)** — open-access archiving and DOI minting for research outputs.
 - **[OpenSSF](https://openssf.org)** — Open Source Security Foundation Best Practices badge and Scorecard supply-chain security tooling.
 - **[Anthropic](https://www.anthropic.com)** — Claude API for AI-assisted development and testing.
 - **[LM Studio](https://lmstudio.ai)** — local large language model inference API for development and testing.
+- **[Local Contexts](https://localcontexts.org)** — Open to Collaborate Notice and Traditional Knowledge Notice, supporting Indigenous data sovereignty and ethical collaboration.
 
 ![Open_To_Collaborate](https://github.com/user-attachments/assets/940c11b1-bf4e-449c-9e2a-51ef4528e0ad)
