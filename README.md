@@ -24,8 +24,6 @@ Key areas covered in this sandbox include:
 - **Indigenous data ethics** — adoption of the Open to Collaborate Notice and Traditional Knowledge Notice from Local Contexts, supporting Indigenous data sovereignty.
 - **Open research** — archiving and DOI minting via Zenodo to make outputs citable and accessible.
 
-Whether you are a developer evaluating new tools, a researcher exploring reproducible workflows, or an open-source contributor looking for a well-configured starting point, this repository offers a ready-made environment to experiment freely and collaboratively.
-
 ## Software testing
 
 ### Claude API
