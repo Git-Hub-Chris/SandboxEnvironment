@@ -5,15 +5,19 @@ This repository includes Docker configuration for development, testing, and depl
 ## Quick Start
 
 ### Run Tests
+
 ```bash
 docker-compose run test
 ```
 
 ### Interactive Development
+
 ```bash
 docker-compose run dev
 ```
+
 Then inside the container:
+
 ```bash
 python calculator.py
 pytest
@@ -22,6 +26,7 @@ black .
 ```
 
 ### Run Linting and Formatting
+
 ```bash
 docker-compose run lint
 ```
@@ -29,6 +34,7 @@ docker-compose run lint
 ## Build Images
 
 Build the Docker image:
+
 ```bash
 docker build -t sandbox:latest .
 ```
@@ -36,16 +42,19 @@ docker build -t sandbox:latest .
 ## Run Individual Services
 
 ### Test Service
+
 ```bash
 docker-compose up test
 ```
 
 ### Development Service (Interactive)
+
 ```bash
 docker-compose run -it dev bash
 ```
 
 ### Lint Service
+
 ```bash
 docker-compose up lint
 ```
@@ -53,6 +62,7 @@ docker-compose up lint
 ## Dockerfile Details
 
 The Dockerfile uses a **multi-stage build**:
+
 1. **Builder stage**: Installs Python dependencies
 2. **Production stage**: Strips down to essentials, adds security (non-root user), and includes a health check
 
@@ -64,7 +74,7 @@ The Dockerfile uses a **multi-stage build**:
 ## Docker Compose Services
 
 | Service | Purpose |
-|---------|---------|
+| --------- | --------- |
 | `dev` | Interactive development shell with mounted volumes |
 | `test` | Runs pytest with verbose output |
 | `lint` | Runs ruff, black, and other checks |
@@ -72,6 +82,7 @@ The Dockerfile uses a **multi-stage build**:
 ## Cleaning Up
 
 Remove containers and images:
+
 ```bash
 docker-compose down
 docker image rm sandbox:latest
