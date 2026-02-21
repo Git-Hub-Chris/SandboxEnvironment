@@ -8,7 +8,3 @@ def greet(name):
 
 def farewell(name):
     return f"Goodbye, {name}!"
-
-
-def add(a, b):
-    return a + b
