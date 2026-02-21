@@ -9,6 +9,8 @@ yarn.lock
 # Python
 __pycache__/
 *.py[cod]
+coverage.xml
+.coverage
 *$py.class
 *.so
 .Python
