@@ -102,28 +102,19 @@ temp/
 .Spotlight-V100
 .Trashes
 ehthumbs.db
-Thumbs.db
 desktop.ini
-
-# Node.js
-node_modules/
-npm-debug.log
 
 # Ruby
 Gemfile.lock
 .bundle/
 
 # Go
-/bin/
 /vendor/
 
 # Rust
-target/
 Cargo.lock
 
 # .NET
-bin/
-obj/
 packages/
 .vs/
 

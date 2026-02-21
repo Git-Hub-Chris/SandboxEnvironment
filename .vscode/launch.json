@@ -65,7 +65,7 @@
             "runtimeArgs": [
                 "--remote-debugging-port=9222"
             ],
-            "url": "c:\\Users\\Chris\\.vscode\\extensions\\ms-edgedevtools.vscode-edge-devtools-2.1.10\\out\\startpage\\index.html", // https://github.com/Git-Hub-Chris/SandboxEnvironment
+            "url": "https://github.com/Git-Hub-Chris/SandboxEnvironment",
             "presentation": {
                 "hidden": true
             }
@@ -78,7 +78,7 @@
                 "--headless",
                 "--remote-debugging-port=9222"
             ],
-            "url": "c:\\Users\\Chris\\.vscode\\extensions\\ms-edgedevtools.vscode-edge-devtools-2.1.10\\out\\startpage\\index.html", // https://github.com/Git-Hub-Chris/SandboxEnvironment
+            "url": "https://github.com/Git-Hub-Chris/SandboxEnvironment",
             "presentation": {
                 "hidden": true
             }
@@ -87,7 +87,7 @@
             "type": "vscode-edge-devtools.debug",
             "name": "Open Edge DevTools",
             "request": "attach",
-            "url": "c:\\Users\\Chris\\.vscode\\extensions\\ms-edgedevtools.vscode-edge-devtools-2.1.10\\out\\startpage\\index.html", // https://github.com/Git-Hub-Chris/SandboxEnvironment
+            "url": "https://github.com/Git-Hub-Chris/SandboxEnvironment",
             "presentation": {
                 "hidden": true
             }

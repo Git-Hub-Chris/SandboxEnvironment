@@ -23,6 +23,10 @@ Key areas covered in this sandbox include:
 - **Cross-platform sandboxing** — references and resources for Linux, macOS, and Windows sandbox environments.
 - **Open research** — archiving and DOI minting via Zenodo to make outputs citable and accessible.
 
+## Configuration
+
+The repository includes a `Phi-4.prompt.yml` configuration file for testing with Microsoft Phi-4 language model integration, providing model parameters and system prompts for AI-assisted development workflows.
+
 ## Software testing
 
 ### Claude API
