@@ -1,0 +1,46 @@
+version: '3.8'
+
+services:
+  # Development environment with interactive shell
+  dev:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: sandbox-dev
+    volumes:
+      - .:/app
+      - /app/__pycache__  # Prevent host's pycache from interfering
+    working_dir: /app
+    command: /bin/bash
+    stdin_open: true
+    tty: true
+    environment:
+      - PYTHONUNBUFFERED=1
+
+  # Test runner service
+  test:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: sandbox-test
+    volumes:
+      - .:/app
+      - /app/__pycache__
+    working_dir: /app
+    command: pytest -v --tb=short
+    environment:
+      - PYTHONUNBUFFERED=1
+
+  # Linting and formatting service
+  lint:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: sandbox-lint
+    volumes:
+      - .:/app
+      - /app/__pycache__
+    working_dir: /app
+    command: /bin/bash -c "ruff check . && black --check . && echo 'All checks passed!'"
+    environment:
+      - PYTHONUNBUFFERED=1
