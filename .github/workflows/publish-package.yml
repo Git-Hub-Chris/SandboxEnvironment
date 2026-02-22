@@ -33,7 +33,7 @@ jobs:
 
       - name: Extract metadata (tags, labels) for Docker
         id: meta
-        uses: docker/metadata-action@902fa8ec7d6ecbea8a269b5d70e5b9b9b27e8432 # v5.7.0
+        uses: docker/metadata-action@v5.7.0
         with:
           images: ghcr.io/${{ github.repository }}
 
