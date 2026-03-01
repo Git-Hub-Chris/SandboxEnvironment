@@ -1,7 +1,7 @@
 # Multi-stage build for production and development
 
 # Stage 1: Builder
-FROM python:3.13-slim as builder
+FROM python:3.13-slim AS builder
 
 WORKDIR /app
 

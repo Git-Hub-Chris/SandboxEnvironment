@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Documentation
+    url: https://github.com/Git-Hub-Chris/SandboxEnvironment/blob/Main/README.md
+    about: Check the README for usage instructions and documentation
+  - name: Security Policy
+    url: https://github.com/Git-Hub-Chris/SandboxEnvironment/blob/Main/SECURITY.md
+    about: Report security vulnerabilities according to our security policy
