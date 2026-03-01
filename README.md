@@ -24,6 +24,84 @@ Key areas covered in this sandbox include:
 - **Cross-platform sandboxing** — references and resources for Linux, macOS, and Windows sandbox environments.
 - **Open research** — archiving and DOI minting via Zenodo to make outputs citable and accessible.
 
+## Getting Started
+
+### Prerequisites
+
+- Python 3.10 or higher
+- Git
+- Docker (optional, for containerized development)
+
+### Installation
+
+1. **Clone the repository**:
+
+   ```bash
+   git clone https://github.com/Git-Hub-Chris/SandboxEnvironment.git
+   cd SandboxEnvironment
+   ```
+
+2. **Create a virtual environment** (recommended):
+
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   ```
+
+3. **Install dependencies**:
+
+   ```bash
+   pip install -r requirements.txt
+   # Or for development with extra tools:
+   pip install -e ".[dev]"
+   ```
+
+### Running Tests
+
+Run the test suite with pytest:
+
+```bash
+pytest -v
+```
+
+Run tests with coverage:
+
+```bash
+pytest --cov=. --cov-report=term-missing
+```
+
+### Code Quality
+
+Check code formatting with Black:
+
+```bash
+black --check .
+# Or format automatically:
+black .
+```
+
+Run linting with Ruff:
+
+```bash
+ruff check .
+```
+
+### Docker Usage
+
+Build and run tests in Docker:
+
+```bash
+docker-compose run test
+```
+
+Interactive development environment:
+
+```bash
+docker-compose run dev
+```
+
+For more Docker details, see [DOCKER.md](DOCKER.md).
+
 ## Configuration
 
 The repository includes a `Phi-4.prompt.yml` configuration file for testing with Microsoft Phi-4 language model integration, providing model parameters and system prompts for AI-assisted development workflows.
