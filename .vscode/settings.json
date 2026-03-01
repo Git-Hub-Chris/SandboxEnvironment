@@ -9,6 +9,8 @@
     "python.testing.pytestEnabled": false,
     "python.testing.unittestEnabled": false,
     "python.terminal.activateEnvironment": false,
+    "python.terminal.activateEnvInCurrentTerminal": false,
+    "python.terminal.executeInFileDir": false,
     "terminal.integrated.profiles.windows": {
         "PowerShell": {
             "source": "PowerShell",
