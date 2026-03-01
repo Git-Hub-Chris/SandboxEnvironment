@@ -1,4 +1,5 @@
 [project]
+name = "sandboxenvironment"
 version = "0.1.0"
 authors = [
     { name = "Git-Hub-Chris", email = "153604499+Git-Hub-Chris@users.noreply.github.com" }
