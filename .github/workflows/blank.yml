@@ -87,5 +87,5 @@ jobs:
         run: black --check .
 
       - name: Run type checking with mypy
-        run: mypy calculator.py hello.py
+        run: mypy sandboxenvironment/calculator.py sandboxenvironment/hello.py
         continue-on-error: true
