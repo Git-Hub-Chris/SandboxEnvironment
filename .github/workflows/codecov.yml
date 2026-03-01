@@ -33,7 +33,7 @@ jobs:
           python-version: '3.x'
 
       - name: Install dependencies
-        run: pip install -e ".[dev]"
+        run: pip install -e ".[dev]" pytest coverage
 
       - name: Run tests with coverage
         run: pytest --cov=. --cov-report=xml
