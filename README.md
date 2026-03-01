@@ -31,7 +31,7 @@ Key areas covered in this sandbox include:
 - Git
 - Docker (optional, for containerized development)
 
-### Installation
+### Installation (Optional)
 
 1. **Clone the repository**:
 
