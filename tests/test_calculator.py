@@ -6,7 +6,7 @@ including edge cases and error conditions.
 
 import pytest
 
-from sandboxenvironment.calculator import add, divide, multiply, subtract
+from calculator import add, divide, multiply, subtract
 
 
 def test_add() -> None:
