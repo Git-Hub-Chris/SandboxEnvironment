@@ -17,5 +17,6 @@
             "args": ["-NoProfile"]
         }
     },
-    "terminal.integrated.defaultProfile.windows": "PowerShell"
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "terminal.integrated.enablePersistentSessions": false
 }
