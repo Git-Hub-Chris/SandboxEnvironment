@@ -15,6 +15,7 @@ def hello() -> str:
     """
     return "Hello, World!"
 
+
 def greet(name: str) -> str:
     """Generate a personalized greeting.
 
@@ -31,6 +32,7 @@ def greet(name: str) -> str:
         'Hello, Bob!'
     """
     return f"Hello, {name}!"
+
 
 def farewell(name: str) -> str:
     """Generate a personalized farewell message.
