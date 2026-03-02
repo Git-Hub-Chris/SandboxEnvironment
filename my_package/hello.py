@@ -3,6 +3,7 @@
 This module contains functions for generating greetings and farewells.
 """
 
+
 def hello() -> str:
     """Return a simple hello world greeting.
 
