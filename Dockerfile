@@ -21,8 +21,8 @@ COPY --from=builder /root/.local /root/.local
 ENV PATH=/root/.local/bin:$PATH
 
 # Copy application code
-COPY calculator.py hello.py ./
-COPY test_calculator.py test_hello.py ./
+COPY calculator.py ./
+COPY test_calculator.py ./
 
 # Create non-root user for security
 RUN useradd -m -u 1000 appuser && chown -R appuser:appuser /app
