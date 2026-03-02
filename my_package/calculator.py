@@ -4,6 +4,7 @@ This module contains functions for addition, subtraction, multiplication,
 and division with proper error handling.
 """
 
+
 def add(a, b):
     return a + b
 
