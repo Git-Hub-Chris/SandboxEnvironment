@@ -3,7 +3,7 @@
 This module contains comprehensive tests for all greeting functions.
 """
 
-from hello import farewell, greet, hello
+from sandboxenvironment.hello import farewell, greet, hello
 
 
 def test_hello() -> None:
