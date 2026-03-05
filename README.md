@@ -148,6 +148,6 @@ A special thank you to these organizations for providing the digital resources n
 - **[OpenSSF](https://openssf.org)** — Open Source Security Foundation Best Practices badge and Scorecard supply-chain security tooling.
 - **[Anthropic](https://www.anthropic.com)** — Claude API for AI-assisted development and testing.
 - **[LM Studio](https://lmstudio.ai)** — local large language model inference API for development and testing.
-- **[Local Contexts](https://localcontexts.org)** — Open to Collaborate Notice and Traditional Knowledge Notice, supporting Indigenous data sovereignty and ethical collaboration.
+- **[Local Contexts](https://localcontexts.org)** — Open to Collaborate Notice, supporting Indigenous data sovereignty and ethical collaboration.
 
 ![Open_To_Collaborate](https://github.com/user-attachments/assets/940c11b1-bf4e-449c-9e2a-51ef4528e0ad)
