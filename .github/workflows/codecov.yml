@@ -43,6 +43,10 @@ jobs:
           --cov-config=pyproject.toml \
           --cov-omit="tests/*"
 
+      - name: Show coverage summary (source of truth)
+        run: |
+          python -m coverage report -m
+
       - name: Debug coverage artifact
         run: |
           echo "PWD=$(pwd)"
