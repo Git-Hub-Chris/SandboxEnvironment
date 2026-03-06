@@ -2,6 +2,7 @@ name: Codecov
 
 permissions:
   contents: read
+  id-token: write
 
 on:
   push:
@@ -27,8 +28,6 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-          # You can add dev dependencies here if needed
-          # pip install -e ".[dev]"
 
       - name: Clean Python cache
         run: |
@@ -36,10 +35,11 @@ jobs:
           find . -name "*.pyc" -delete
 
       - name: Run tests with coverage
-        run: pytest --cov=. --cov-report=xml --cov-report=term-missing
+        run: pytest --cov=sandboxenvironment --cov-report=xml --cov-report=term-missing
 
       - name: Upload coverage to Codecov
         uses: codecov/codecov-action@v5
         with:
-          token: ${{ secrets.CODECOV_TOKEN }} # only needed for private repos
+          token: ${{ secrets.CODECOV_TOKEN }}
           files: coverage.xml
+          fail_ci_if_error: true
