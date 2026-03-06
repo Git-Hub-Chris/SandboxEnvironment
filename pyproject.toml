@@ -15,4 +15,9 @@ dev = [
 ]
 
 [tool.coverage.run]
+source = ["sandboxenvironment"]
 omit = ["setup.py"]
+
+[tool.coverage.report]
+show_missing = true
+fail_under = 100
