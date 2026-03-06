@@ -47,12 +47,10 @@ jobs:
         run: |
           python -m coverage report -m
 
-      - name: Debug coverage artifact
+      - name: Show coverage debug info
         run: |
-          echo "PWD=$(pwd)"
-          ls -la
-          test -f coverage.xml
-          head -n 60 coverage.xml
+          python -m coverage debug sys
+          python -m coverage debug config
 
       - name: Upload coverage to Codecov (verbose)
         uses: codecov/codecov-action@v5
