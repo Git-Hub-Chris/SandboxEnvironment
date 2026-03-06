@@ -7,7 +7,7 @@
 [![Copilot code review](https://github.com/Git-Hub-Chris/SandboxEnvironment/actions/workflows/copilot-pull-request-reviewer/copilot-pull-request-reviewer/badge.svg)](https://github.com/Git-Hub-Chris/SandboxEnvironment/actions/workflows/copilot-pull-request-reviewer/copilot-pull-request-reviewer)
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/11860/badge)](https://www.bestpractices.dev/projects/11860)
 ![Static Badge](https://img.shields.io/badge/GitHub-Sandbox%20Environment-yellow?style=flat&logo=Github&logoColor=yellow&labelColor=gray)
-[![codecov](https://codecov.io/gh/Git-Hub-Chris/SandboxEnvironment/graph/badge.svg?token=FL3FP3PB1H)](https://codecov.io/gh/Git-Hub-Chris/SandboxEnvironment)
+[![codecov](https://codecov.io/github/Git-Hub-Chris/SandboxEnvironment/branch/Main/graph/badge.svg?token=FL3FP3PB1H)](https://codecov.io/github/Git-Hub-Chris/SandboxEnvironment)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18821551.svg)](https://doi.org/10.5281/zenodo.18821551)
 
 ## Introduction
