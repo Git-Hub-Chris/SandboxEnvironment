@@ -37,11 +37,11 @@ jobs:
       - name: Run tests with coverage (simple: cover repo root)
         run: |
           pytest -v \
-          --cov=. \
-          --cov-report=term-missing \
-          --cov-report=xml:coverage.xml \
-          --cov-config=pyproject.toml \
-          --cov-omit="tests/*"
+            --cov=. \
+            --cov-report=term-missing \
+            --cov-report=xml:coverage.xml \
+            --cov-config=pyproject.toml \
+            --cov-omit="tests/*"
 
       - name: Show coverage summary (source of truth)
         run: |
