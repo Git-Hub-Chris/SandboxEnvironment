@@ -15,8 +15,10 @@ dev = [
 ]
 
 [tool.coverage.run]
-source = ["sandboxenvironment", "my_package"]
-omit = ["setup.py"]
+omit = [
+  "setup.py",
+  "tests/*",
+]
 
 [tool.coverage.report]
 show_missing = true
