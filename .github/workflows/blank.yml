@@ -78,7 +78,7 @@ jobs:
           pip install pytest pytest-cov
 
       - name: Run tests with coverage
-        run: python -m pytest -v --cov=. --cov-report=term-missing
+        run: python -m pytest -v --cov=. --cov-report=term-missing --cov-fail-under=80
 
       - name: Run Ruff linter
         run: ruff check .
