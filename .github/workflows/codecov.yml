@@ -34,12 +34,24 @@ jobs:
           find . -type d -name "__pycache__" -exec rm -rf {} +
           find . -name "*.pyc" -delete
 
-      - name: Run tests with coverage
-        run: pytest --cov=sandboxenvironment --cov-report=xml --cov-report=term-missing
+      - name: Run tests with coverage (write explicit coverage.xml)
+        run: |
+          pytest -v \
+            --cov=sandboxenvironment \
+            --cov-report=term-missing \
+            --cov-report=xml:coverage.xml
 
-      - name: Upload coverage to Codecov
+      - name: Debug coverage artifact
+        run: |
+          echo "PWD=$(pwd)"
+          ls -la
+          test -f coverage.xml
+          head -n 60 coverage.xml
+
+      - name: Upload coverage to Codecov (verbose)
         uses: codecov/codecov-action@v5
         with:
           token: ${{ secrets.CODECOV_TOKEN }}
           files: coverage.xml
           fail_ci_if_error: true
+          verbose: true
