@@ -18,5 +18,7 @@
         }
     },
     "terminal.integrated.defaultProfile.windows": "PowerShell",
-    "terminal.integrated.enablePersistentSessions": false
+    "terminal.integrated.enablePersistentSessions": false,
+    "terminal.integrated.persistentSessionReviveProcess": "never",
+    "terminal.integrated.shellIntegration.history": 0
 }
