@@ -1,23 +1,2 @@
-[project]
-name = "sandboxenvironment"
-version = "0.1.0"
-authors = [
-    { name = "Git-Hub-Chris", email = "153604499+Git-Hub-Chris@users.noreply.github.com" }
-]
-
-[project.optional-dependencies]
-dev = [
-  "ruff",
-  "black",
-  "mypy",
-  "pytest",
-  "pytest-cov",
-]
-
 [tool.coverage.run]
-source = ["sandboxenvironment"]
-omit = ["setup.py"]
-
-[tool.coverage.report]
-show_missing = true
-fail_under = 100
+source = ["sandboxenvironment", "my_package"]
