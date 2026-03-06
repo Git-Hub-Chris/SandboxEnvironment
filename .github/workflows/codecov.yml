@@ -34,13 +34,14 @@ jobs:
           find . -type d -name "__pycache__" -exec rm -rf {} +
           find . -name "*.pyc" -delete
 
-      - name: Run tests with coverage (write explicit coverage.xml)
+      - name: Run tests with coverage (simple: cover repo root)
         run: |
-        pytest -v \
-          --cov=sandboxenvironment \
-          --cov=my_package \
+          pytest -v \
+          --cov=. \
           --cov-report=term-missing \
-          --cov-report=xml:coverage.xml
+          --cov-report=xml:coverage.xml \
+          --cov-config=pyproject.toml \
+          --cov-omit="tests/*"
 
       - name: Debug coverage artifact
         run: |
