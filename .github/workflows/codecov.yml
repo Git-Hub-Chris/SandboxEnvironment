@@ -39,7 +39,7 @@ jobs:
           python -m coverage report -m
 
       - name: Upload coverage to Codecov
-        uses: codecov/codecov-action@v6
+        uses: codecov/codecov-action@57e3a133ccfcb2804a7382a7a3041b0d407a36c1 # v6
         with:
           files: coverage.xml
           fail_ci_if_error: true
