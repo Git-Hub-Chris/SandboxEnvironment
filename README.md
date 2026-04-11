@@ -120,7 +120,7 @@ The repository includes a `Phi-4.prompt.yml` configuration file for testing with
 
 ### ORCID Sandbox
 
-<https://sandbox.orcid.org/0009-0002-9214-7327>
+<https://sandbox.orcid.org/>
 
 ### Local Contexts Hub Sandbox
 
