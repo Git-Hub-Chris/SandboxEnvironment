@@ -20,3 +20,7 @@ repos:
   - id: mypy
     additional_dependencies: []
     args: [--ignore-missing-imports]
+- repo: https://github.com/pylint-dev/pylint
+  rev: v2.17.2
+  hooks:
+  - id: pylint
