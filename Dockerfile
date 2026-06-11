@@ -1,7 +1,7 @@
 # Multi-stage build for production and development
 
 # Stage 1: Builder
-FROM python:3.14-slim@sha256:c845af9399020c7e562969a13689e929074a10fd057acd1b1fad06a2fb068e97 AS builder
+FROM python:3.14-slim@sha256:3fa9f1158b0d8b5029c357770bd522e7955546ffc5db885d8b366ec4a687afd4 AS builder
 
 WORKDIR /app
 
@@ -10,7 +10,7 @@ COPY requirements.txt .
 RUN pip install --no-cache-dir --user -r requirements.txt
 
 # Stage 2: Production
-FROM python:3.14-slim@sha256:c845af9399020c7e562969a13689e929074a10fd057acd1b1fad06a2fb068e97
+FROM python:3.14-slim@sha256:3fa9f1158b0d8b5029c357770bd522e7955546ffc5db885d8b366ec4a687afd4
 
 WORKDIR /app
 
