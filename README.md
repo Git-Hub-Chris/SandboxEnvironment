@@ -8,7 +8,6 @@
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/11860/badge)](https://www.bestpractices.dev/projects/11860)
 ![Static Badge](https://img.shields.io/badge/GitHub-Sandbox%20Environment-yellow?style=flat&logo=Github&logoColor=yellow&labelColor=gray)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18946344.svg)](https://doi.org/10.5281/zenodo.18946344)
-[![codecov](https://codecov.io/gh/Git-Hub-Chris/SandboxEnvironment/branch/Main/graph/badge.svg?token=IZ13T943ML)](https://codecov.io/gh/Git-Hub-Chris/SandboxEnvironment)
 
 ## Introduction
 
