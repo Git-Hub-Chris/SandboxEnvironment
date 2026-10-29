@@ -1,4 +1,7 @@
-from setuptools import find_packages, setup  # pyright: ignore[reportMissingModuleSource]
+from setuptools import (
+    find_packages,
+    setup,
+)  # pyright: ignore[reportMissingModuleSource]
 
 setup(
     name="SandboxEnvironment",
