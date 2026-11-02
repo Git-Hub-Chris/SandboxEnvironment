@@ -1,7 +1,7 @@
 # Multi-stage build for production and development
 
 # Stage 1: Builder
-FROM python:3.14-alpine3.23 AS builder
+FROM python:3.15-alpine3.23 AS builder
 
 WORKDIR /app
 
@@ -12,7 +12,7 @@ COPY requirements.txt .
 RUN pip install --no-cache-dir --user -r requirements.txt
 
 # Stage 2: Production
-FROM python:3.14-alpine3.23
+FROM python:3.15-alpine3.23
 
 WORKDIR /app
 
