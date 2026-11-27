@@ -17,11 +17,11 @@ def hello() -> str:
     return "Hello, World!"
 
 
-def greet(name: str) -> str:
+def greet(person_name: str) -> str:
     """Generate a personalized greeting.
 
     Args:
-        name: The name of the person to greet.
+        person_name: The name of the person to greet.
 
     Returns:
         A personalized greeting string.
@@ -32,14 +32,14 @@ def greet(name: str) -> str:
         >>> greet("Bob")
         'Hello, Bob!'
     """
-    return f"Hello, {name}!"
+    return f"Hello, {person_name}!"
 
 
-def farewell(name: str) -> str:
+def farewell(person_name: str) -> str:
     """Generate a personalized farewell message.
 
     Args:
-        name: The name of the person to bid farewell.
+        person_name: The name of the person to bid farewell.
 
     Returns:
         A personalized farewell string.
@@ -50,4 +50,4 @@ def farewell(name: str) -> str:
         >>> farewell("Bob")
         'Goodbye, Bob!'
     """
-    return f"Goodbye, {name}!"
+    return f"Goodbye, {person_name}!"
